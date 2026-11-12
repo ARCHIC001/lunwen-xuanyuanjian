@@ -1,0 +1,5 @@
+interface:
+  display_name: "Introduction Story Arc"
+  short_description: "Build a high-tension research-paper Introduction"
+  brand_color: "#335077"
+  default_prompt: "Use $introduction-story-arc to structure and revise this research-paper Introduction around its problem, gap, method, and evidence."
